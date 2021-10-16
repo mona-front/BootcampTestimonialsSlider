@@ -14,6 +14,13 @@ const array=[
         job:"UX Engineer",
         img:"images/image-Tanya.jpg"
     }
+    ,
+    {
+        description:" “I’vebeen interested in coding for a while but never taken the jump, until now.I couldn’t recommend this course enough. I’m now in the job of my dreams and so excited about the future. ”" ,
+        fullName:"Tanya Sinclair",
+        job:"UX Engineer",
+        img:"images/image-john.jpg"
+    }
 ]
 
 // items
